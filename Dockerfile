@@ -1,1 +1,1 @@
-FROM leophenomx/github_action:latest
+FROM leophenomx/github-action:latest
